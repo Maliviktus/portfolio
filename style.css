@@ -41,3 +41,11 @@ nav ul li a {
 }
 
 /* Блок связанный с основной секцией */
+main {
+    height: 80vh;
+}
+
+/* Подвал сайта */
+footer {
+    background-color: cornflowerblue;
+}
